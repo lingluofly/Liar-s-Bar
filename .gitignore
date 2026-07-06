@@ -33,3 +33,6 @@ docker-compose.override.yml
 
 # Logs
 *.log
+
+# 文档手册
+docx/
