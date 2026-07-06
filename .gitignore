@@ -27,6 +27,9 @@ ai-service/.venv/
 # Docker
 docker-compose.override.yml
 
+# Database exports
+db-export/
+
 # Env
 .env
 .env.local
